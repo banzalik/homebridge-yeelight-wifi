@@ -1,6 +1,6 @@
 {
   "name": "homebridge-yeelight-wifi",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Homebridge plugin for Yeelight white and colored bulbs.",
   "license": "MIT",
   "keywords": [
@@ -9,13 +9,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/vieira/homebridge-yeelight-wifi.git"
+    "url": "git://github.com/banzalik/homebridge-yeelight-wifi.git"
   },
   "author": {
     "name": "vieira"
   },
   "bugs": {
-    "url": "http://github.com/vieira/homebridge-yeelight-wifi/issues"
+    "url": "http://github.com/banzalik/homebridge-yeelight-wifi/issues"
   },
   "dependencies": {
   },
